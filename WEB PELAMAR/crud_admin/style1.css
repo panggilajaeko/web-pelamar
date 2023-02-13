@@ -1,0 +1,79 @@
+.container-logout .login-email .input-group .btn {
+    display: block;
+    width: 30%;
+    padding: auto;
+    padding: 10px 20px;
+    text-align: center;
+    
+    border: none;
+    background: #0217fe;
+    outline: none;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    color: #FFF;
+    cursor: pointer;
+    transition: .3s;
+    margin-top: 100px;
+}
+.container-logout .login-email .input-group .btn:hover {
+    transform: translateY(-5px);
+    background: #252523;
+}
+.container-logout .login-email .input-group .btn1 {
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    text-align: center;
+    border: none;
+    background: #0217fe;
+    outline: none;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    color: #FFF;
+    cursor: pointer;
+    transition: .3s;
+    margin-top: 100px;  
+
+}.container-logout .login-email .input-group .btn1:hover {
+    transform: translateY(-5px);
+    background: #252523;
+}
+
+
+.container-logout .login-email .input-group .btn2 {
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    text-align: center;
+    border: none;
+    background: #0217fe;
+    outline: none;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    color: #FFF;
+    cursor: pointer;
+    transition: .3s;
+    margin-top: 100px;
+}.container-logout .login-email .input-group .btn2:hover {
+    transform: translateY(-5px);
+    background: #252523;
+}
+.container-logout .login-email .input-group .btns {
+    display: block;
+    width: 50%;
+    padding: 10px 10px;
+    text-align: center;
+    border: none;
+    background: #0217fe;
+    outline: none;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    color: #FFF;
+    cursor: pointer;
+    transition: .3s;
+    margin-top: 100px;
+    
+}.container-logout .login-email .input-group .btns:hover {
+    transform: translateY(-5px);
+    background: #252523;
+}
